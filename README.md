@@ -1,11 +1,6 @@
 # TestReactPepcoding
 Task is to create a dashboard for the pets data given using reactjs.
 
-
-# Test 
-
-Task is to create a dashboard for the pets data given using reactjs.
-
 ## Specs 
 - Only use react 
 - For styling use bootstrap and no self written css 
